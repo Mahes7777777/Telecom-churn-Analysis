@@ -15,6 +15,13 @@ telecom-churn-prediction/
 ├── compare_two_dtree_rforest.ipynb
 └── README.md
 
+### 📂 Dataset Used
+
+The dataset used in this project is:
+- `data/telecom_churn_data.csv`
+
+Make sure this file is present in the `data/` folder for the notebooks to run correctly.
+
 
 ---
 
